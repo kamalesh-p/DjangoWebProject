@@ -1,0 +1,4 @@
+cd C:\Users\kamalesh-pt5874\Documents\college project\python\Django\DjangoWebProject1
+python manage.py runserver
+
+
